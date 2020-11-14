@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TOP---Curriculum-V/static/css/main.9e9ff3ce.chunk.css",
+    "main.js": "/TOP---Curriculum-V/static/js/main.f41dd89d.chunk.js",
+    "main.js.map": "/TOP---Curriculum-V/static/js/main.f41dd89d.chunk.js.map",
+    "runtime-main.js": "/TOP---Curriculum-V/static/js/runtime-main.069d7d28.js",
+    "runtime-main.js.map": "/TOP---Curriculum-V/static/js/runtime-main.069d7d28.js.map",
+    "static/js/2.32cd2705.chunk.js": "/TOP---Curriculum-V/static/js/2.32cd2705.chunk.js",
+    "static/js/2.32cd2705.chunk.js.map": "/TOP---Curriculum-V/static/js/2.32cd2705.chunk.js.map",
+    "static/js/3.19217991.chunk.js": "/TOP---Curriculum-V/static/js/3.19217991.chunk.js",
+    "static/js/3.19217991.chunk.js.map": "/TOP---Curriculum-V/static/js/3.19217991.chunk.js.map",
+    "index.html": "/TOP---Curriculum-V/index.html",
+    "static/css/main.9e9ff3ce.chunk.css.map": "/TOP---Curriculum-V/static/css/main.9e9ff3ce.chunk.css.map",
+    "static/js/2.32cd2705.chunk.js.LICENSE.txt": "/TOP---Curriculum-V/static/js/2.32cd2705.chunk.js.LICENSE.txt",
+    "static/media/userIcon.21b0f183.png": "/TOP---Curriculum-V/static/media/userIcon.21b0f183.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.069d7d28.js",
+    "static/js/2.32cd2705.chunk.js",
+    "static/css/main.9e9ff3ce.chunk.css",
+    "static/js/main.f41dd89d.chunk.js"
+  ]
+}
