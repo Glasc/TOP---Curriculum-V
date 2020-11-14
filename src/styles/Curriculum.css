@@ -1,0 +1,58 @@
+.curriculumWrapper {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  width: 100%;
+  justify-content: center;
+  position: relative;
+}
+
+.curriculumWrapper h2,
+p {
+  font-size: 1.2rem;
+  padding: 0.4em;
+}
+
+.curriculumWrapper h2 {
+  background-color: #68c8d0;
+  color: #343434;
+  font-size: 1.4rem;
+}
+
+.curriculumWrapper p {
+  background-color: #c8ede6;
+}
+
+.userIcon {
+  align-self: center;
+  justify-self: center;
+}
+
+.editLogo {
+  position: absolute;
+  top: 0;
+  padding: 0.5em;
+  transition: all 600ms;
+}
+
+.editLogo:hover {
+  background-color: #c8ede6;
+  cursor: pointer;
+  transition: all 600ms;
+}
+
+.curriculumWrapper > section * {
+  margin: 0.5em 0;
+}
+
+.curriculumWrapper > section {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(70px, 300px));
+  gap: 0 15px;
+}
+
+.curriculumWrapper button {
+}
+
+.curriculumWrapper button:hover {
+  background-color: #2867a1;
+}

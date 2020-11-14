@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 2em;
+  color: #212121;
+}
+
+h1 {
+  font-size: 2.5rem;
+  background-color: #242424;
+  color: white;
+  padding: 0.5em;
+  text-align: center;
+}
+
+form > section {
+  margin: 2em 0;
+  font-size: 1.1rem;
+}
+form > section * {
+  margin: 0.25em 0;
+}
+form > section input {
+  padding: 0.4em 0.5em;
+  border: 2px solid #9e9e9e;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  width: 20%;
+  min-width: 300px;
+}
+form > section input:hover {
+  border: 2px solid #616161;
+}
+
+.submit,
+.edit {
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0 1em;
+  margin-left: 0;
+}
+
+.submit {
+  color: white;
+  background-color: #242424;
+}
+.submit:hover {
+  background-color: #444444;
+}
+
+.edit {
+  background-color: #ffeb3b;
+  color: black;
+}
+
+label {
+  font-weight: bold;
+}
